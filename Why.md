@@ -14,7 +14,7 @@ Machine learning can allow for more accurate diagnoses, noticing associations an
 
 It will also stand to level the playing field for many in economic poverty. Often times the best doctors take lucrative positions catering to wealthy patrons, while fewer and fewer private practices accept subsidized benefits. Machine learning can serve as one tool to expand access of quality services to people across income levels.
 
-_Now imagine what Insurance Companies would do with that information_
+_Now imagine what insurance companies would do with that information_
 
 It's vital to work with machine learning, and to do so quickly. Because with any new technology, there will be parties looking to exploit it.
 
