@@ -1,0 +1,8 @@
+
+Why do you want to learn Machine Learning?
+
+The things I find most intriguing about ML, and AI in general, are the philosophical ramifications. Now on one level, I don't think that there really are philosophical issues with ML. It is just another software technology and is no different from any other tool used in IT.  However, as ML and related techniques get more and more powerful, they can't help but raise questions about their relationship to our own intelligence. My personal viewpoint is that as humans we naturally tend to overrate our own capabilities. The older I get, the more I am convinced that I am nothing more than an automaton.
+
+On a more practical level, though, the thing that I find exciting about getting into ML is that it is such a young field with so much potential for growth. As an older programmer, I have witnessed (and largely just been a bystander to) several boom-and-bust cycles in technology, and I would like to finally join a technology wave before it crests. I would, in particular, like to be able to create new variations of ML algorithms and contribute to the growth of the field.
+
+The are so many possible opportunities in ML that the biggest growth areas in the future will probably be things that I can't even contemplate. One area that I think is ripe for growth is the use of voice interfaces. The popularity of the Amazon Echo shows that there is a huge potential market for this, and ML has finally made it a practical possibility. But there is still an enormous amount of development that needs to be done in fields like natural language processing and sentiment analysis before people can interact conversationally with computers. I think this is one area that I would enjoy working in.
