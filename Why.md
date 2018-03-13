@@ -1,11 +1,3 @@
-
-You must answer the following question:
-Why do you want to learn Machine Learning?
-
-The following questions are to help you plan your response, but specifically
-addressing each question is not required.
-What is exciting about ML?  What do you think the best job opportunities are in ML? What do you think you need to do to make yourself employable in ML? What dangers are there in studying ML? Are the moral or ethical considerations that you will be responsible for?
-
 The idea of technology excites me a lot. I have made difficult career choices to get in the field of software development (You can read more about it in the 'Optional Read' section). 
 
 Currently, I am developing desktop applications. In my work, I come across so many situations where the problems can be easily solved using machine learning but I do not posses that knowledge yet and I feel disappointed. Thats how I moved towards understanding Machine learning. The exiting thing about Machine Learning is the fact that it has the capability to take away the hassle part of a task. For me Machine Learning will not just simply my life, it will also empower me with so much time that can be used to better and even bigger things. 
