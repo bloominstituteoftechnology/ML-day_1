@@ -1,0 +1,8 @@
+### Why do you want to learn Machine Learning?
+###### What lures me into the field of machine learning is its blend of theory and application. As a physics and maths student, this attracts me all the same. I want to employ deductive, or inductive, reasoning; hypothesize and create tests; and formulate a model that will fit the data; and in return, provide a description that best fits the results in a concrete and cogent fashion (and results can be shown via a lab notebook, in a repeatable way); and testing the hypothesis' falsifiability.
+
+###### I would also love to sharpen my programming skill-set, as I'm also keen on using computational methods to aide the problem-solving process, and publish results in a medium such as LaTeX, personal website, etc.
+
+###### What makes me suitable and apt to take on machine learning is dependent upon motivation, and motivated I am. I think the capacity to which one's learning experience with machine learning depends on one's curiosity, and I'm ever so curious about digging deep into how we can make machines reason using the laws of probability, and statistical principles (though I'm sure there's way more to it than that).
+
+###### What I want out of this learning experience is simply the challenge. The challenge of picking something up that is so novel and unique to our advancing civilisation, all the while furthering my understanding of ways to seek truth and solve the problems we face daily. And enjoying the maths that come with it! (Along with the friends and community driving it -- be it open source communities, the science community at large, etc.!)
