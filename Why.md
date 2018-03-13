@@ -12,7 +12,7 @@ Today, when excessively huge amounts of data are being dealt with everyday, rath
 
 ##What do you think you need to do to make yourself employable in ML?
 
-As a beginner i first focus on building your machine learning fundamentals.after have a good basic structure i can  Build systems that have a 50ms SLA and take hundreds or thousands of transactions per second. Ideally, systems that are critical for a business to run. Play with some big datasets that are publicly available US Government Data. Learn how to be a great engineer since i have various programming backgrounds i'm not focusing only on a single language such as Python as many Machine Learning Engineers do. Instead, broaden your scope to include languages like Java, C++, Scala and JavaScript. I always look to take a role with a product-focused machine learning or personalization team.
+As a beginner i first focus on building your machine learning fundamentals.after have a good basic structure i can  Build systems that have a 50ms SLA and take hundreds or thousands of transactions per second. Ideally, systems that are critical for a business to run. Play with some big datasets that are publicly available US Government Data. Learn how to be a great engineer since i have various programming backgrounds i'm not focusing only on a single language such as Python as many Machine Learning Engineers do. Instead, broaden my scope to include languages like Java, C++, Scala and JavaScript. I always look to take a role with a product-focused machine learning or personalization team.
 
 ## What dangers are there in studying ML? 
 
