@@ -1,0 +1,5 @@
+## Question: Why do you want to learn Machine Learning?
+
+I want to learn *more* about machine learning because I want to make a career change. I say "more" because I've taken a couple of free online ML courses (Andrew Ng's Octave-based course on Coursera was the best) but I know only the very basics. Many of the general ideas/concepts are clear to me but I only have the tools to do things at a relatively basic level. The 
+
+The job market for Data Science/Data Engineering is obviously huge and growing, so I know that there are plenty of opportunities. What the **best** opportunities for me are, I'm not completely sure. I have the academic background and look good on paper but have relatively weak coding skills outside of R. Ideally I'd like to find project-based consulting work; to get that off the ground I need to build a portfolio (thus the interest in Lambda's program) and do some real work. One self-launch idea I'm considering is starting out doing pro-bono work for non-profits and going from there.
