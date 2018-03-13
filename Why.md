@@ -1,0 +1,3 @@
+Why do you want to learn Machine Learning?
+
+I want to learn Machine Learning so that I can enhance my analytical skills in order to find employment in a data driven position. I have always been fascinated by numbers and statistics and trying to figure out how they relate to what I am seeing. I am naturally a skeptic and enjoy using data to learn more about something or to better predict what the best answer to a problem would be. I feel that learning ML offers a great opportunity for me to delve deeper into my passion of data and paired with the BS of Data Analysis that I am completing by the end of the 2018 I will be more than ready to launch a new chapter of my life in the business world. 
