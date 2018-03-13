@@ -1,0 +1,9 @@
+Why do you want to learn Machine Learning?
+
+At this point, I'm not convinced I want to learn about Machine Learning. Which is why I was glad to find that Lamda School was putting on an intro course for it. I do enjoy putting new and cutting edge topics in front of me though. I've heard a ton about this stuff and its uses (the marketing side), so I wanted to know more about the technical side - that's were my brain lives most of the time with most things.
+
+I believe that Machine Learning will be required for most programmers in the near future, so if I can get ahead of the curve some by at least working with it some, if not completing a course, my future will be a bit easier. I believe that it will be something that touches many parts of society, from cars, to shopping, even space travel or something as simple as sleeping. There is huge potential for it to improve lives - as well as hurt them. Hopefully, we get more of the former.
+
+I think one of the biggest issues we'll face with it is allowing machines to make decisions. They will only use the data given to them, BUT it will be used to create new data and assumptions about people with that data. I believe that everyone has a "footprint". Not just from a foot, but from the way they do everything. Once these patterns are discovered and the means to create them are realized, there really no limit to what anyone can learn about someone by "unobserving" them. Security camera's will be old tech! Managing this data and keeping it secure and used ethically (that's still up for discussion) will be one of the next big debates.
+
+With this small course I hope to get a grasp of what would be required for Machine Learning and from that, progress out into growing it technically and ethically if I see it to be necessary and viable.
