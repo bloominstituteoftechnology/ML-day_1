@@ -1,0 +1,2 @@
+#### Why do you want to learn Machine Learning?
+Honestly, I'm not too sure yet. It seems exciting and... I want to work on exciting things. I have just recently started to learn programming and I want to learn more about Machine Learning as a possible career path, which brought me here.
