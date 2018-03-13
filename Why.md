@@ -1,0 +1,3 @@
+Why do you want to learn Machine Learning?
+
+* I'm passionate about learning new technologies. Because, as a naturally curious person trying to always understand the why of everything, I realised some time ago that one of the key contributors to the human survival is the technological progress. That's why so many people are so excited about new technologies, because of all the new possibilities, new opportunities as well as new challenges it brings to the human progress. By learning and working in ML and/or CS fields I'm hoping to make my modest contribution to the progress that future generations will build upon.
