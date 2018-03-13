@@ -1,0 +1,5 @@
+Machine Learning is currently one of the hottest topics in the world of information technology. What excites me about learning machine learning is the types of practical problems it can solve. As a consumer I have knowingly or unknowingly contributed to the generation of data that is manipulated and processed by the numerous machine learning algorithms. Now, I intend to learn the principles and workings behind the machine learning models as a developer.
+
+As a beginner in the field of machine learning, I believe I still have a lot to learn to be employable in this field. I am constantly looking for resources that could enhance my knowledge in this field. Besides online courses, I think one must also be up to date with the latest research in the field in order to be considered employable.
+
+Since machine learning is being used to solve so many practical problems, I believe if I could solve any such problem and contribute to the society, however small that may be, then I would consider my learning to be successful.
