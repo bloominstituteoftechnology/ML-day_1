@@ -1,0 +1,3 @@
+##Why do you want to learn Machine Learning?
+
+I am currently working on getting a degree in CS. I am interested in learning ML because I believe ML and AI are one of the uprising industries of the future. Major companies are coming up with ideas of automation which will eventually replace humans in entry level jobs that only require a low level algorithm. Working for companies that focus on automation systems for residences, schools, hospitalities would be a great job to land after learning ML. Although machines will help companies to greatly reduce the budgeting for employment in the future, we should also consider about the people who will be losing their jobs and provide an assitance to further their skills to land a job where no machines can replace humans.
