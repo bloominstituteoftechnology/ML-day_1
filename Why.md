@@ -1,0 +1,7 @@
+Why do you want to learn Machine Learning?
+
+Machine learning and artificial intelligence to me hold the promise of answering the big questions. After thousands of years of philosophy and science, we have made huge leaps in so many areas, but the bar remains relatively unmoved on many of the eternal questions: Where did we really come from? Why are we here? Is there a purpose to our existence?
+
+Though it seems like a pie-in-the-sky goal, machine learning is the most powerful tool we've had yet to tackle these questions, and perhaps to even pose new ones of greater importance. The idealist in me will always find motivation to continue pressing forward in this field because of this possibility, no matter how slim. However, the pragmatist and humanist in me realizes the benefits that the field can provide to even while falling short of these loftiest of goals. It really is a aim for the moon and land among the stars endeavor.
+
+My brain has always worked very analytically and the possibility to work in a field that harnesses that for giant dreamy goals seems like an inevitability to me. It is also imperative that the field be populated with people whose primary motivation is the benefit of the many and not the few, and I intend to trod the most ethical path I can determine and provide a model for others to do so as well.
