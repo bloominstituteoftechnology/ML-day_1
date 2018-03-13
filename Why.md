@@ -1,0 +1,7 @@
+
+# Jonathan Schwartz -- First ML Assignment
+==========================================
+
+## Why I'm interested in Machine Learning
+
+My interest in Data Science was first sparked during my undergraduate studies as a Sociology major.  While my thesis project was primarily quantitative (tracking audience laughter levels via audio dBs in Jewish comedians' albums over decades), I knew that I lacked the proper programming skills to dive deeper into more important societal topics and models.  Later on, I started to dabble in R to model some simple Day-Trading models, but again, I knew I lacked the proper tools/education.  While my data-science interests up to this point have been primarily academic and financial, I see Machine Learning as incredibly versatile career-wise, applicable in all corners of the business world, from self-driving cars, to agriculture, science, genetics, tourism, retail, AI, and so much more.  While the possibilities are endless in ML, the responsibilities are also great, and every potential model must be assessed for not only it's effectiveness, but also a robust level of ethics and morality, and whether the findings could potentially be weaponized if they reach certain audiences. I believe that I will bring a sense of humanity, fairness, and creativity to my future models, and with Lambda as a guide, can become a Machine Learning professional who helps serve future employers, but more importantly, future generations.  
