@@ -1,0 +1,11 @@
+AI is the future. It's that buzzword that everyone now knows, that every industry is spending millions, if not billions, on. ML is exciting in that it can be applied to a vast array of problems. It seems like in the past, where we needed to design a new circuit board for problems or a new program, now we just need an ML architecture, some computing power and time. In a sense, it's the next thing that will take us into another world of possibilities with computers.
+
+I work for an AI recruiter where we use ML models to predict certain attributes of engineers (at a very high/abstracted level). Talking to our ML engineer and hearing him explain the possibilities and efficiency vs human rating is indeed very exciting. Going back to my undergrad days, i remember taking a computational modeling class where we learned some python tricks and were introduced to the world of AI and ML. Since that class, I had always wanted to get involved, not only because it is arguably the most cutting-edge field to be a part of, but also because I want to be involved in making the space safe and available to the masses, not being run by a small group.
+
+If I could do it over again, I would have studied CS with a focus on AI, since that was a track available at Oberlin. Ultimately, Lambda is the best way for me to get involved in the world and to make a difference.
+
+It seems like the best jobs are centered around autonomous hardware, at least in terms of money. Pony.ai just had a 130 million Series A (that's crazy) and there are countless others like them. For me, institutions like OpenAI are the 'best' opportunities, at least for what i would want to do. Any sort of job where I can be a part of making the space safe, efficient, and accessible would be ideal.
+
+As a philosophy major, I thought a lot about the moral/ethical dilemmas AI will invariably introduce as it continues to evolve. I think that's why the idea of safety and transparency are so important to me.
+
+Suffice it to say, ML is an extremely interesting field that has and will continue to have a hand in how our future as a race evolves. Being a part of that movement, at a very important time in the field, is the most exciting thing I can think of doing right now.
