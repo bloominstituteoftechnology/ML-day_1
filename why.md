@@ -1,0 +1,1 @@
+I want to learn ML in order to solve the most difficult problems in the world. The ability for a single person or team to create massive impact has never been more feasible. I am specifically interested in the neuroscience and psychiatric field because of the limited understand of how the brain works. Using data, I want to change the way people live their lives.
