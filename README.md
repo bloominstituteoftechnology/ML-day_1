@@ -11,7 +11,7 @@ businesses, warehouses, repetitive jobs such as cooks, and self driving tech.
     
 To make myself employable in ML I need to constantly learn the latesting tech and languages of the industry.
     
-I constantly think about how a whole workforce of robots could replace society therefore bringing forward of the necessity of a "universal basic income".     I 
+I constantly think about how a whole workforce of robots could replace society therefore bringing forward the necessity of a "universal basic income".     
 
  
 
