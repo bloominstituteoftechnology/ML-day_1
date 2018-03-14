@@ -43,3 +43,4 @@ The following questions are to help you plan your response, but specifically
 addressing each question is not required.
 What is exciting about ML?  What do you think the best job opportunities are in ML? What do you think you need to do to make yourself employable in ML? What dangers are there in studying ML? Are the moral or ethical considerations that you will be responsible for?
 
+I want to learn machine learning because I want to be at the forefront of technology. I also feeel like I am not accomplishing enough at my current job.
