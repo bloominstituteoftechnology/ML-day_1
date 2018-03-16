@@ -1,0 +1,1 @@
+#Why I want to learn Machine Learning (ML):  I think ML is going to play an ever increasing role in almost every facet of human life.  Clearly computers have had an impact far beyond what was ever imagined with the first PCs.  ML is likely going to supplant a lot of skilled human labor, and I don’t want to get left behind.
