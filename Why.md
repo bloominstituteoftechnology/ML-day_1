@@ -5,7 +5,7 @@
 I'm kidding. I want to learn ML because I believe Andrew Ng is right when he says "AI is the new electricity."
 
 2. What is exciting about ML?
-Everything that has been electrified, will be cognified. Which means AI will be some sort of "5th Industrial Revolution".
+- Everything that has been electrified, will be cognified. Which means AI will be some sort of "5th Industrial Revolution".
 That's an exciting thing. It's even more exciting to play a part in it. 
 I don't know how I'll do it, but I think learning ML is a step in the right direction.
 
