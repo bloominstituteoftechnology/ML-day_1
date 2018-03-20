@@ -68,5 +68,10 @@ A Mary Shelly danger is not something that any practicionar of ML should fear be
 
 Are the moral or ethical considerations that you will be responsible for?
 
-Yes. I have been thinking lobbying activity in this space and many other rapidly developing fields should be engaged in by the practitioners at a much more thoughtful way. Regulations and laws don't write themselves so I see this as the only way to pursue ethical consideration to be applied to the space generally.
+Yes. I have been thinking lobbying activity in this space and many other rapidly developing fields should be engaged in by the practitioners at a much more thoughtful way. Regulations and laws don't write themselves so I see this as the only way to pursue ethical consideration to be applied to the space generally. Practitionars should be aware of the new regulations and should push for ethical regulations. 
+
+The new Stack Overflow developer survey just came out and it said only 5% of respondants felt like unethical code comes from developers. I think there is general sense of writing ethical code currently and that is a positive reflection on the current morality of developers. Perpetuating this morality into the future of ML / AI seems predictable and should be fostered. A step further in the positive direction would be onlt 1% of developers originate unethical code or less.
+
+
+
 
