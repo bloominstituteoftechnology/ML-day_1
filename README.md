@@ -37,9 +37,41 @@ request to the original repository.
 `Why.md`
 
 You must answer the following question:
+
 Why do you want to learn Machine Learning?
 
-The following questions are to help you plan your response, but specifically
-addressing each question is not required.
-What is exciting about ML?  What do you think the best job opportunities are in ML? What do you think you need to do to make yourself employable in ML? What dangers are there in studying ML? Are the moral or ethical considerations that you will be responsible for?
+I'm first and foremost interested in being apart of Lambda. My friends that have told me about Austen have been nothing but effusive about the opportunities. Being part of a school that is this revolutionary feels like a real honor. It feels like being part of the future of education. All the other firms that I know that have left Y Combinator have contributed tremendously to the tech ecosystem and society in general. I've been following YC for many years with tremendous awe and it would be a huge honor to learn from the foremost education startup.
+
+I have been interested in AI since 1999 when I first learned about it through film.
+
+The following questions are to help you plan your response, but specifically addressing each question is not required.
+
+What is exciting about ML?
+
+I am really enthused by making better business cases for opportunities a firm faces. I absolutely loved studying and emloying Econometrics in my career. I have been fascinated by employing ML technologies to continuously reduce error estimations.
+
+What do you think the best job opportunities are in ML?
+
+Locomotion is the opportunity that is most obvious to me. Having a background in Finance, I have thought of little ways firms could make use of ML. Developing auditing reports is multibillion dollar business that has a blue ocean of ML opportunities. identifying fraud using ML was something I contributed when I worked at the Big 4. I have also been involved with Sales and Trading operations and tremendous opportunities exist in both spaces. Both on research side and front & back office operations.
+
+What do you think you need to do to make yourself employable in ML?
+
+I don't think I'm as technical in python as Lambda is making it seem. I think I need a better grasp of that language.
+
+What dangers are there in studying ML?
+
+I regect the question. No danger should be feared that comes from learning truth.
+
+Costs can be felt from honing a skill that is not rewarded by the marketplace. An example of this might be any non-STEM degree. Even though a degree is costly in time and energy it isn't necessarily dangerous.
+
+A Mary Shelly danger is not something that any practicionar of ML should fear because of its illogicalness. Danger or its more quantitized cousin risk can always be assessed and the assessment can always be refined through more study. No risk can be assessed to ML without a study of it.
+
+Are the moral or ethical considerations that you will be responsible for?
+
+Yes. I have been thinking lobbying activity in this space and many other rapidly developing fields should be engaged in by the practitioners at a much more thoughtful way. Regulations and laws don't write themselves so I see this as the only way to pursue ethical consideration to be applied to the space generally. Practitionars should be aware of the new regulations and should push for ethical regulations. 
+
+The new Stack Overflow developer survey just came out and it said only 5% of respondants felt like unethical code comes from developers. I think there is general sense of writing ethical code currently and that is a positive reflection on the current morality of developers. Perpetuating this morality into the future of ML / AI seems predictable and should be fostered. A step further in the positive direction would be onlt 1% of developers originate unethical code or less.
+
+
+
 
