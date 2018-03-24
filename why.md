@@ -1,0 +1,5 @@
+
+## Why do you want to learn Machine Learning?
+
+When I was pursuing my business analytics program, I got chance to have data mining and machine learning fundamental courses which really impressed me.  The topics of machine learning sound really interesting and give me a new look of the data. Before that I never thought about we could analysis data in that way and get the result super awesome, now I totally fall in love with them. I think the best  job opportunities in ML is everywhere! Of course, the high-tech gets more involved in it such as self-driving car, picture recontinuations and so son, however I believe ML job will apply to all other positions in the future. In order to get myself employable in ML, I need to polish my programming skills in Python and get more deeper into the machine learning algorism. Having strong programming skills and knowledge about the algorisms is the most important part to become a ML employee.  The danger part in ML is I have to know I need to learn it in my entire live since there are so many stuffs I need to understand and become a good ML employee should always eager to learn.
+
