@@ -1,0 +1,13 @@
+# Why do you want to learn Machine Learning?
+
+## What is exciting about it?
+One of the reasons that make it exciting is the feeling of creating something with some level of what we humans determine intelligence. This feeling of becoming the creator is somehow unexplainable, fills with joy looking at your creation. This feeling increases when the creation becomes useful or is capable to achieve a performance in a task that is close, equal or greater than a human’s performance. Another reason is the vision into the future of how the work in this field could improve our society and planet by monitoring, learning and predicting how nature behaves, including our human nature, biological processes.
+
+## What do you think you need to do to make yourself employable in ML?
+Demonstrate my skills with quantitative metrics and a portfolio of applications. In the first case some metrics could include the position in Kaggle competitions. In the second case the creation of online applications that showcase the result of a training process. I am working on that like this small demo I did: bsaldivards.blogspot.pe/2017/12/tuberculosis-mods-image-diagnosis-test.html 
+
+## What dangers are there in studying ML? 
+I don’t believe there are any special dangers related to ML alone. The most risky events occurs in the health industry where it is required to experiment with living organisms that at some stage reach the experiments with humans. Therefore dangers that include ML will be connected to the scientific process of validating the application of ML for a particular use, such as ML in medicine, disease diagnosis, or autonomous vehicles in operation. Thus, the presence of dangers along the study of ML depend on the application and must follow a scientific process in order to minimize these dangers.
+
+## Are there moral or ethical considerations that you will be responsible for?
+Working with data carries a responsibility. Depending on the type of data this responsibility could be high or low. Handling medical records for study must follow data handling protocols in order to guarantee the privacy of the participants. In addition, reinforcement learning is full of ethical debates that deeps into philosophy that even without machines it results hard to determine a unique answer. An example for this last case is how an autonomous vehicle should act if there is a pedestrian that will be killed in one direction and if the car tries to save him, it will kill another, or kill the passengers. In summary, the ethics have to be analyzed in every possible application for ML.
