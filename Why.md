@@ -1,0 +1,4 @@
+
+# Why ML?
+
+ Machine learning excites me because machines themselves excite me. I've always enjoyed learning about robots, solvers, and any level of sentience that parallels our own. The terms 'machine learning', 'artificial intelligence', and 'data science' are coming dangerously close to 'jumping the shark' in technology but with good reason since many industries are adopting these concepts at various levels. I think the best job opportunities will be in finance, health informatics, and internet of things. The most employable will be those who consistently show the ability to convert base theoretical knowledge into real applications that can be understood and consumed by the broadest range of people. What excites me the most about data science is the opportunity to tell a story with data.
