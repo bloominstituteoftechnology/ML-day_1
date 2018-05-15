@@ -1,45 +1,14 @@
 
-# Welcome to Lambda School Machine Learning
+I know that Data Science with Machine Learning emphasis is the right career path for me because I find it fascinating. I am naturally curious, especially about subjects that have anything to do with humans and other mammals, everything from evolution to human behavior. I’m always trying analyze things, figure out why they work the way they do and solve problems just because it’s interesting to me. I’ve been searching for a very long time for the right career path and now I know I’m on the right track. 
 
-1. What is Lambda School
-  * Intensive training
-  * 45 * 26 hours
-  * 15 * 52 hours
-  * Application over Theory
-  * Educational models
-2. Who am I
-2. What is the Machine Learning Course
-  * A wide spectrum of topics in ML, AI, and data science
-  * A focus on personal presentation and knowledge
-  * A ML framework for producing results for businesses
-  * A set of skills to compete in the ML world
-  * A set of demos to showcase those skills
-3. What is Machine Learning (ML)
-  * ML is applied mathematics
-  * ML is using numerical techniques to produce hidden information
-  * ML is making predictions on data too vast for a human to analyzE
-  * ML is data intuition, preparation, and sharing
-4. What will I be teaching during the ML course
-  * High level ML syllabus discussion
-  * Computer science
-  * Personal presentations
-  * Advanced computer operation in support of ML
-5. What's the point of learning ML
-  * In demand
-  * Producing more results than before
-  * Many big names say it is only going to get more important
-6. How do we get started?
 
-# Assignment
-Write `Why.md`, commit it to this repository, and push. Send me a pull
-request to the original repository.
+In order to answer the question in full I need to establish a little background and and talk a little about what lead me here to apply for the Lambda Data Science Program. 
+For the last few years I’ve been very interested in social complexity. Since this was a hobby at the time I realised mostly on the basic theory and gathering my own observations, particularly through social media. Would use those theories to try to understand a basic picture of larger realities, understanding the nature of human networks and help work at social issues like breaking through echo chambers, helping steer social discourse in a more positive effective direction or more individual problems such as finding ways to help boost the exposure of a journalist who I think is full of integrity and potential. I’ve always known that I want to go in this general direction but I don’t think it’s very practical for someone in my situation to try to pursue a career in sociology. I’m more interested in practical applications than academic theory. 
 
-`Why.md`
 
-You must answer the following question:
-Why do you want to learn Machine Learning?
+When I heard about Lambda and started to consider applying I looked for other quick and free intro courses to help me decide if either Computer Science or Data Science would be the right direction for me. It was quite a “Eureka!” moment when I started to read about data visualization because I realized I already try to do that. I find the idea of high dimensionality particularly fascinating because I’ve pondered ways to try to visualize it myself. The funny is that it never occured to me that it’s such a big part of what machine learning is about until I watched your video. So you can imagine how excited I am to start learning how to get a machine to do that for me. 
 
-The following questions are to help you plan your response, but specifically
-addressing each question is not required.
-What is exciting about ML?  What do you think the best job opportunities are in ML? What do you think you need to do to make yourself employable in ML? What dangers are there in studying ML? Are the moral or ethical considerations that you will be responsible for?
 
+I was so relieved to hear you talk about building a portfolio for employment asap. It has been quite a struggle trying to survive as a single income family and job availability without some higher education is increasingly rare. Many of those available pay so little they are not even viable when you have to consider the price of quality child care. I’m very aware that the gap is growing and determined to get my children and I on the other side of it. 
+Despite that I am also aware of the moral and ethical issues involved. My main concern is protecting the privacy of the public (who’s needs will vary) and keeping the power of persuasion and manipulation out of the wrong hands. I’m sure there are many more concerns I will learn about as I go. My ideal job would be anything that focuses on the greater good more than profit. 
+Like the Lambda team. It’s very inspiring and i hope to become a full time student in that future.
