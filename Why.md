@@ -1,0 +1,23 @@
+Why do you want to learn Machine Learning?
+
+### How I was introduced to the field?
+I was first introduced to the concept of ML in early 2017. Our startup used cheap cloud instances from a provider to reduce the TCO and these instances would die very often due to reasons unknown (before we investigated the issues). We manually searched for the logs and found out some potential patterns that lead to these incidents. We later developed some static monitoring services based on our manual findings, set thresholds and backups and the idea faded away. If we could think of algorithms that learned the pattern with time, we could have done better. This led me to know about something called machine learning which exactly does what we wanted to do but did not do.
+
+### Job opportunities in ML
+As far as the job opportunities are concerned, I cannot think of anything that cannot be optimized using machine learning right from systems(servers: upscaling and downscaling for load, databases: optimizing indexes as per searches), production industries (automation of hardware processes), healthcare (assisting in detecting patterns in medical images), autonomous cars, automating the risky tasks done by humans etc. But of all these, the most interesting according to me would be speech based systems. Though speech recognition is considered solved, I do not see it actively engaging people on the internet. I still see people using keyboard based inputs rather than speech based. I use a song/music app called 'Gaana' (India) and I seldom tried using the voice assistant for searching a particular song. I believe bringing it in basic day-to-day internet usage would be a major shift in how we engage with the community of users on the internet. I wish to build something in this domain.
+
+### Important factors/skills for getting employed in an ML based role
+After playing around with lots of fun datasets for the last 6 months, I feel the below 2 skills count a lot when aiming to get employed in a ML based role
+1. modifying data to fit the input types required by the open sourced libraries [data wrangling and correction]
+Reason: Data comes in all shapes and sizes and we need to be able to convert it to something that is generic or compatible to a certain structure. Most of the times people are found fiddling with algorithms that have been implemented and optimized for us (libraries like tensorflow, pytorch, theano, etc) and all we need to do is ensure that our data is comfortably accepted by the library we are using. This might not always be the case but more often it is.
+2. feature engineering
+Reason: Algorithms tend to find mathematical patterns in data. Although it would be unwise to say that algorithms cannot find logical patterns in data, it would be wise to mention that providing (domain based) better data to the algorithm increases the ability of algorithms to find logical patterns in data. This is where feature engineering can come handy.
+3. Bonus
+There are other things like choosing the right algorithms, modelling simple algorithms instead of complex ones, finetuning the algorithms subject to use case, reducing the data, improving parallelization, etc but I believe these come with experience and can be learned on a job. Though I do not mean that they cannot be learned when practicing.
+
+### Moral, and Ethical obligations and Dangers in modelling ML based algorithms
+There should be a lot of ethical considerations before designing algorithms to wow people. Bias is one of the very vital things to take into picture. I follow a lot of ML based researchers/infuencers on twitter and find a lot of them mentioning about cases of bias (http://norman-ai.mit.edu/, https://www.bloomberg.com/view/articles/2018-03-09/big-data-alone-can-t-fix-a-broken-bail-system). There is a lot of racial and gender bias that is heavily talked about by prominent researchers which should be taken care of. These can lead to potential misunderstanding about an entire group in general.
+I believe this is the most dangerous part as of implementing AI based systems. This problem could extent to almost anything.
+
+### My interest
+As I mentioned above, I want people to engage using speech which I think is more natural than keyboard based methods. This is more towards the business side of things. On the social side, I want to be one of those people driving good change that affects people around me. I worked on a tool(https://github.com/vikramriyer/ttsdaisy_v4) for people with print disabilities where they upload images and get audio books as output. I may make the audio systems better and thus increasing the reach of apps like the one I mentioned to more people.
